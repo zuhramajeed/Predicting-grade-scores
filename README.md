@@ -1,1 +1,1 @@
-# Predicting-grade-scores
+A dataset of Students' Performance in Math Class is chosen from UC Irvine Machine Learning Repository (https://archive.ics.uci.edu/ml/index.php). The task is to predict final grade of these students, based on their backgroud, familty information, lifestyle and first and second period grades. In order to perform that, different types of Regressors, Feature Selectors and Extractors where implemented and best performing model was chosen.
